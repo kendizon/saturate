@@ -36,7 +36,7 @@ export const services = [
 export const projects = [
   {
     tag: "01",
-    name: "Manila Roasters",
+    name: "ThonnieRain Streetfood",
     industry: "Food & Beverage",
     servicesUsed: "Brand Strategy, Web Dev",
     site: "manilaroasters.ph",
